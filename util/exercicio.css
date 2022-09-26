@@ -1,0 +1,44 @@
+h1{
+  text-align: center;
+  color: white;
+  background-color: rgb(52, 189, 152);
+  border-style: solid;
+  border-color: black;
+  font-family: cursive;
+  padding: 10px 10px;
+}
+
+h1:hover {
+  background-color: #9B9;
+}
+h2 {
+  text-align: center;
+  color: red;
+  border-bottom: dotted;
+  border-top: dotted;
+  border-color: black;
+  font-family: cursive;
+  padding: 10px 10px;
+}
+.resposta {
+  background-color: dodgerblue;
+  color: white;
+  text-align: justify;
+  font-family: arial;
+  font-size: 14px;
+  padding: 5px 5px;
+}
+
+h1.margem {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.margem {
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
+button{
+width: 250px;
+padding: 15px;
+}
